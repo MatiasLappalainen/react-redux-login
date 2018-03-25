@@ -1,0 +1,12 @@
+{
+    "username": {
+      "type": "text",
+      "name": "username",
+      "className": "text-input"
+    },
+    "password": {
+        "type": "password",
+        "name": "password",
+        "className": "text-input"
+    }
+}
